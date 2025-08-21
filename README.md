@@ -5,5 +5,5 @@
 - 👯 Procuro projetos para me desenvolver.
 - 🌎 Moro em Brasília/DF.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
           
